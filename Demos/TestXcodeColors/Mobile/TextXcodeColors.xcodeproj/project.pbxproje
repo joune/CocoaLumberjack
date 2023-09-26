@@ -104,12 +104,12 @@
 				DC3612AA156E1D3800956227 /* ViewController.h */,
 				DC3612AB156E1D3800956227 /* ViewController.m */,
 				DC3612AD156E1D3800956227 /* ViewController.xib */,
-				DC36129F156E1D3800956227 /* Supporting_Files */,
+				DC36129F156E1D3800956227 /* Supporting Files */,
 			);
 			path = TextXcodeColors;
 			sourceTree = "<group>";
 		};
-		DC36129F156E1D3800956227 /* Supporting_Files */ = {
+		DC36129F156E1D3800956227 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
 				DC3612A0156E1D3800956227 /* TextXcodeColors-Info.plist */,
@@ -117,7 +117,7 @@
 				DC3612A4156E1D3800956227 /* main.m */,
 				DC3612A6156E1D3800956227 /* TextXcodeColors-Prefix.pch */,
 			);
-			name = "Supporting_Files";
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

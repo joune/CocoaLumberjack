@@ -104,12 +104,12 @@
 				DCAACA941565CEBD001A5857 /* AppDelegate.h */,
 				DCAACA951565CEBD001A5857 /* AppDelegate.m */,
 				DCAACA971565CEBD001A5857 /* MainMenu.xib */,
-				DCAACA891565CEBD001A5857 /* Supporting_Files */,
+				DCAACA891565CEBD001A5857 /* Supporting Files */,
 			);
 			path = TestXcodeColors;
 			sourceTree = "<group>";
 		};
-		DCAACA891565CEBD001A5857 /* Supporting_Files */ = {
+		DCAACA891565CEBD001A5857 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
 				DCAACA8A1565CEBD001A5857 /* TestXcodeColors-Info.plist */,
@@ -118,7 +118,7 @@
 				DCAACA901565CEBD001A5857 /* TestXcodeColors-Prefix.pch */,
 				DCAACA911565CEBD001A5857 /* Credits.rtf */,
 			);
-			name = "Supporting_Files";
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

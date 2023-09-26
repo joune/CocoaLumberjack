@@ -114,12 +114,12 @@
 				DC7DC4FF14154E4900601B40 /* RegisteredLoggingTestAppDelegate.h */,
 				DC7DC50014154E4900601B40 /* RegisteredLoggingTestAppDelegate.m */,
 				DC7DC50214154E4900601B40 /* MainMenu.xib */,
-				DC7DC4F414154E4900601B40 /* Supporting_Files */,
+				DC7DC4F414154E4900601B40 /* Supporting Files */,
 			);
 			path = RegisteredLoggingTest;
 			sourceTree = "<group>";
 		};
-		DC7DC4F414154E4900601B40 /* Supporting_Files */ = {
+		DC7DC4F414154E4900601B40 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
 				DC7DC4F514154E4900601B40 /* RegisteredLoggingTest-Info.plist */,
@@ -128,7 +128,7 @@
 				DC7DC4FB14154E4900601B40 /* RegisteredLoggingTest-Prefix.pch */,
 				DC7DC4FC14154E4900601B40 /* Credits.rtf */,
 			);
-			name = "Supporting_Files";
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

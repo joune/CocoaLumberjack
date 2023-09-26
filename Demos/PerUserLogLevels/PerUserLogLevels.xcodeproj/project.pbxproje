@@ -117,12 +117,12 @@
 				DC87A70A1525AEA3005A09B0 /* AppDelegate.h */,
 				DC87A70B1525AEA3005A09B0 /* AppDelegate.m */,
 				DC87A70D1525AEA3005A09B0 /* MainMenu.xib */,
-				DC87A6FF1525AEA3005A09B0 /* Supporting_Files */,
+				DC87A6FF1525AEA3005A09B0 /* Supporting Files */,
 			);
 			path = PerUserLogLevels;
 			sourceTree = "<group>";
 		};
-		DC87A6FF1525AEA3005A09B0 /* Supporting_Files */ = {
+		DC87A6FF1525AEA3005A09B0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
 				DC87A7001525AEA3005A09B0 /* PerUserLogLevels-Info.plist */,
@@ -131,7 +131,7 @@
 				DC87A7061525AEA3005A09B0 /* PerUserLogLevels-Prefix.pch */,
 				DC87A7071525AEA3005A09B0 /* Credits.rtf */,
 			);
-			name = "Supporting_Files";
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

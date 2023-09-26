@@ -117,12 +117,12 @@
 				DCC29DF214730AA9005E8FD4 /* AppDelegate.h */,
 				DCC29DF314730AA9005E8FD4 /* AppDelegate.m */,
 				DCC29DF514730AA9005E8FD4 /* MainMenu.xib */,
-				DCC29DE714730AA9005E8FD4 /* Supporting_Files */,
+				DCC29DE714730AA9005E8FD4 /* Supporting Files */,
 			);
 			path = BenchmarkMac;
 			sourceTree = "<group>";
 		};
-		DCC29DE714730AA9005E8FD4 /* Supporting_Files */ = {
+		DCC29DE714730AA9005E8FD4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
 				DCC29DE814730AA9005E8FD4 /* BenchmarkMac-Info.plist */,
@@ -131,7 +131,7 @@
 				DCC29DEE14730AA9005E8FD4 /* BenchmarkMac-Prefix.pch */,
 				DCC29DEF14730AA9005E8FD4 /* Credits.rtf */,
 			);
-			name = "Supporting_Files";
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 		DCC29E1614730AC6005E8FD4 /* Benchmarking */ = {

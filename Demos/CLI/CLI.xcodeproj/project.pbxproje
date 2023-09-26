@@ -94,17 +94,17 @@
 			children = (
 				E5EDB898186286BC002D0689 /* main.m */,
 				E5EDB89C186286BC002D0689 /* CLI.1 */,
-				E5EDB89A186286BC002D0689 /* Supporting_Files */,
+				E5EDB89A186286BC002D0689 /* Supporting Files */,
 			);
 			path = CLI;
 			sourceTree = "<group>";
 		};
-		E5EDB89A186286BC002D0689 /* Supporting_Files */ = {
+		E5EDB89A186286BC002D0689 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
 				E5EDB89B186286BC002D0689 /* CLI-Prefix.pch */,
 			);
-			name = "Supporting_Files";
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

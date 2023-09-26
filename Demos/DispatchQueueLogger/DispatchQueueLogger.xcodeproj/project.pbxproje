@@ -104,12 +104,12 @@
 				DC25B77C146A0294000F32F4 /* AppDelegate.h */,
 				DC25B77D146A0294000F32F4 /* AppDelegate.m */,
 				DC25B77F146A0295000F32F4 /* MainMenu.xib */,
-				DC25B771146A0294000F32F4 /* Supporting_Files */,
+				DC25B771146A0294000F32F4 /* Supporting Files */,
 			);
 			path = DispatchQueueLogger;
 			sourceTree = "<group>";
 		};
-		DC25B771146A0294000F32F4 /* Supporting_Files */ = {
+		DC25B771146A0294000F32F4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
 				DC25B772146A0294000F32F4 /* DispatchQueueLogger-Info.plist */,
@@ -118,7 +118,7 @@
 				DC25B778146A0294000F32F4 /* DispatchQueueLogger-Prefix.pch */,
 				DC25B779146A0294000F32F4 /* Credits.rtf */,
 			);
-			name = "Supporting_Files";
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

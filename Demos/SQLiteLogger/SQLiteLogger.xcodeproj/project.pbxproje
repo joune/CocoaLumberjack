@@ -121,12 +121,12 @@
 				DCFF743813427FF600F53777 /* SQLiteLoggerAppDelegate.h */,
 				DCFF743913427FF600F53777 /* SQLiteLoggerAppDelegate.m */,
 				DCFF743B13427FF600F53777 /* MainMenu.xib */,
-				DCFF742D13427FF600F53777 /* Supporting_Files */,
+				DCFF742D13427FF600F53777 /* Supporting Files */,
 			);
 			path = SQLiteLogger;
 			sourceTree = "<group>";
 		};
-		DCFF742D13427FF600F53777 /* Supporting_Files */ = {
+		DCFF742D13427FF600F53777 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
 				DCFF742E13427FF600F53777 /* SQLiteLogger-Info.plist */,
@@ -135,7 +135,7 @@
 				DCFF743313427FF600F53777 /* main.m */,
 				DCFF743513427FF600F53777 /* Credits.rtf */,
 			);
-			name = "Supporting_Files";
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 		DCFF74431342801000F53777 /* Logging */ = {

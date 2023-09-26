@@ -117,12 +117,12 @@
 				DC7DC5441415523F00601B40 /* RegisteredLoggingTestViewController.h */,
 				DC7DC5451415523F00601B40 /* RegisteredLoggingTestViewController.m */,
 				DC7DC5471415523F00601B40 /* RegisteredLoggingTestViewController.xib */,
-				DC7DC5361415523E00601B40 /* Supporting_Files */,
+				DC7DC5361415523E00601B40 /* Supporting Files */,
 			);
 			path = RegisteredLoggingTest;
 			sourceTree = "<group>";
 		};
-		DC7DC5361415523E00601B40 /* Supporting_Files */ = {
+		DC7DC5361415523E00601B40 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
 				DC7DC5371415523E00601B40 /* RegisteredLoggingTest-Info.plist */,
@@ -130,7 +130,7 @@
 				DC7DC53B1415523E00601B40 /* main.m */,
 				DC7DC53D1415523E00601B40 /* RegisteredLoggingTest-Prefix.pch */,
 			);
-			name = "Supporting_Files";
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

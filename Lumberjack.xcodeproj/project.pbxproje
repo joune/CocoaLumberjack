@@ -242,7 +242,7 @@
 				0A26B53622DE346B004EE6A7 /* include */,
 				0A26B54A22DE346B004EE6A7 /* CLI */,
 				0A26B54C22DE346B004EE6A7 /* Extensions */,
-				0A26B55222DE346B004EE6A7 /* Supporting_Files */,
+				0A26B55222DE346B004EE6A7 /* Supporting Files */,
 				0A26B57822DE34AE004EE6A7 /* DDAbstractDatabaseLogger.m */,
 				0A26B57422DE34AE004EE6A7 /* DDASLLogCapture.m */,
 				0A26B57122DE34AE004EE6A7 /* DDASLLogger.m */,
@@ -284,7 +284,7 @@
 			path = Extensions;
 			sourceTree = "<group>";
 		};
-		0A26B55222DE346B004EE6A7 /* Supporting_Files */ = {
+		0A26B55222DE346B004EE6A7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
 				0A26B55322DE346B004EE6A7 /* CocoaLumberjack-Info.plist */,
@@ -297,7 +297,7 @@
 		0A26B55922DE346B004EE6A7 /* CocoaLumberjackSwift */ = {
 			isa = PBXGroup;
 			children = (
-				0A26B55E22DE346B004EE6A7 /* Supporting_Files */,
+				0A26B55E22DE346B004EE6A7 /* Supporting Files */,
 				0A26B55D22DE346B004EE6A7 /* CocoaLumberjack.swift */,
 				0A26B55A22DE346B004EE6A7 /* DDAssert.swift */,
 				4CFE77942439202B0068D7C6 /* DDLog+Combine.swift */,
@@ -305,7 +305,7 @@
 			path = CocoaLumberjackSwift;
 			sourceTree = "<group>";
 		};
-		0A26B55E22DE346B004EE6A7 /* Supporting_Files */ = {
+		0A26B55E22DE346B004EE6A7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
 				0A26B55F22DE346B004EE6A7 /* CocoaLumberjackSwift-Info.plist */,

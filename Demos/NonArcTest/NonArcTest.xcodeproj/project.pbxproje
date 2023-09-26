@@ -104,12 +104,12 @@
 				DCA67E00146B531D003411EE /* AppDelegate.h */,
 				DCA67E01146B531E003411EE /* AppDelegate.m */,
 				DCA67E03146B531E003411EE /* MainMenu.xib */,
-				DCA67DF5146B531D003411EE /* Supporting_Files */,
+				DCA67DF5146B531D003411EE /* Supporting Files */,
 			);
 			path = NonArcTest;
 			sourceTree = "<group>";
 		};
-		DCA67DF5146B531D003411EE /* Supporting_Files */ = {
+		DCA67DF5146B531D003411EE /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
 				DCA67DF6146B531D003411EE /* NonArcTest-Info.plist */,
@@ -118,7 +118,7 @@
 				DCA67DFC146B531D003411EE /* NonArcTest-Prefix.pch */,
 				DCA67DFD146B531D003411EE /* Credits.rtf */,
 			);
-			name = "Supporting_Files";
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

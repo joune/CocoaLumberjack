@@ -113,12 +113,12 @@
 				DCE86C1F1343C419004FD85F /* CoreDataLoggerAppDelegate.h */,
 				DCE86C201343C419004FD85F /* CoreDataLoggerAppDelegate.m */,
 				DCE86C221343C41A004FD85F /* MainMenu.xib */,
-				DCE86C141343C419004FD85F /* Supporting_Files */,
+				DCE86C141343C419004FD85F /* Supporting Files */,
 			);
 			path = CoreDataLogger;
 			sourceTree = "<group>";
 		};
-		DCE86C141343C419004FD85F /* Supporting_Files */ = {
+		DCE86C141343C419004FD85F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
 				DCE86C151343C419004FD85F /* CoreDataLogger-Info.plist */,
@@ -127,7 +127,7 @@
 				DCE86C1A1343C419004FD85F /* main.m */,
 				DCE86C1C1343C419004FD85F /* Credits.rtf */,
 			);
-			name = "Supporting_Files";
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 		DCE86C351343C432004FD85F /* Logging */ = {

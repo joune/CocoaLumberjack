@@ -106,12 +106,12 @@
 				E5AE805018DA83A400E0501F /* ViewController.m */,
 				E50619811A2EF295000F835A /* Main.storyboard */,
 				E5AE805218DA83A400E0501F /* Images.xcassets */,
-				E5AE804118DA83A400E0501F /* Supporting_Files */,
+				E5AE804118DA83A400E0501F /* Supporting Files */,
 			);
 			path = CaptureASL;
 			sourceTree = "<group>";
 		};
-		E5AE804118DA83A400E0501F /* Supporting_Files */ = {
+		E5AE804118DA83A400E0501F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
 				E5AE804218DA83A400E0501F /* CaptureASL-Info.plist */,
@@ -119,7 +119,7 @@
 				E5AE804618DA83A400E0501F /* main.m */,
 				E5AE804818DA83A400E0501F /* CaptureASL-Prefix.pch */,
 			);
-			name = "Supporting_Files";
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
