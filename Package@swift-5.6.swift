@@ -31,7 +31,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages which this package depends on.
         .target(
             name: "CocoaLumberjack",
-            exclude: ["Supporting Files"]),
+            exclude: ["Supporting_Files"]),
         .target(
             name: "CocoaLumberjackSwiftSupport",
             dependencies: ["CocoaLumberjack"]),
@@ -41,7 +41,7 @@ let package = Package(
                 "CocoaLumberjack",
                 "CocoaLumberjackSwiftSupport"
             ],
-            exclude: ["Supporting Files"]),
+            exclude: ["Supporting_Files"]),
         .target(
             name: "CocoaLumberjackSwiftLogBackend",
             dependencies: [

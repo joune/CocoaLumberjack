@@ -291,7 +291,7 @@
 				0A26B55422DE346B004EE6A7 /* CocoaLumberjack.h */,
 				0752523D22E07638005D30B3 /* DDLegacyMacros.h */,
 			);
-			path = "Supporting Files";
+			path = "Supporting_Files";
 			sourceTree = "<group>";
 		};
 		0A26B55922DE346B004EE6A7 /* CocoaLumberjackSwift */ = {
@@ -312,7 +312,7 @@
 				0A26B56022DE346B004EE6A7 /* CocoaLumberjackSwift.h */,
 				071909FD243CA0AC001C431F /* SwiftLogLevel.h */,
 			);
-			path = "Supporting Files";
+			path = "Supporting_Files";
 			sourceTree = "<group>";
 		};
 		435F03A92174A39200A86B2D /* Configs */ = {
@@ -609,7 +609,7 @@
 				FRAMEWORK_VERSION = A;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Xcode/Lumberjack/CocoaLumberjack-Prefix.pch";
-				INFOPLIST_FILE = "$(SOURCE_ROOT)/Sources/$(TARGET_NAME)/Supporting Files/$(TARGET_NAME)-Info.plist";
+				INFOPLIST_FILE = "$(SOURCE_ROOT)/Sources/$(TARGET_NAME)/Supporting_Files/$(TARGET_NAME)-Info.plist";
 			};
 			name = Debug;
 		};
@@ -620,7 +620,7 @@
 				FRAMEWORK_VERSION = A;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Xcode/Lumberjack/CocoaLumberjack-Prefix.pch";
-				INFOPLIST_FILE = "$(SOURCE_ROOT)/Sources/$(TARGET_NAME)/Supporting Files/$(TARGET_NAME)-Info.plist";
+				INFOPLIST_FILE = "$(SOURCE_ROOT)/Sources/$(TARGET_NAME)/Supporting_Files/$(TARGET_NAME)-Info.plist";
 			};
 			name = Release;
 		};
@@ -630,7 +630,7 @@
 				APPLICATION_EXTENSION_API_ONLY = YES;
 				FRAMEWORK_VERSION = A;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				INFOPLIST_FILE = "$(SOURCE_ROOT)/Sources/$(TARGET_NAME)/Supporting Files/$(TARGET_NAME)-Info.plist";
+				INFOPLIST_FILE = "$(SOURCE_ROOT)/Sources/$(TARGET_NAME)/Supporting_Files/$(TARGET_NAME)-Info.plist";
 			};
 			name = Debug;
 		};
@@ -640,7 +640,7 @@
 				APPLICATION_EXTENSION_API_ONLY = YES;
 				FRAMEWORK_VERSION = A;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				INFOPLIST_FILE = "$(SOURCE_ROOT)/Sources/$(TARGET_NAME)/Supporting Files/$(TARGET_NAME)-Info.plist";
+				INFOPLIST_FILE = "$(SOURCE_ROOT)/Sources/$(TARGET_NAME)/Supporting_Files/$(TARGET_NAME)-Info.plist";
 			};
 			name = Release;
 		};
